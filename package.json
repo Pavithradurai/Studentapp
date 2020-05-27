@@ -64,7 +64,7 @@
     "publish": {
       "provider": "github",
       "owner": "Pavithradurai",
-      "repo": "newZNYR",
+      "repo": "Studentapp",
       "private": false
     }
   },
@@ -74,12 +74,12 @@
   "publish": {
     "provider": "github",
     "owner": "Pavithradurai",
-    "repo": "newZNYR",
+    "repo": "Studentapp",
     "private": false
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pavithradurai/newZNYR.git"
+    "url": "https://github.com/Pavithradurai/Studentapp.git"
   },
   "keywords": [
     "jingle",
